@@ -5,4 +5,4 @@
 
 ## How to use
 
-Place both of the files into the directory 
+Place both of the files into the directory ~/.config/sirula/ 
